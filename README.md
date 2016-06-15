@@ -5,5 +5,5 @@ Ce jeu est developpe par:
 
 - Farid Chacty    : 501t
 - Maroun Merhej   : 1046bek
-- Tamara Oueidat  : 450t
-- Antonio Serhaly : 8931f
+- Tamara Oueidat  : 8931f
+- Antonio Serhaly : 450t
